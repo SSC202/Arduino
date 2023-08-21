@@ -1,0 +1,7 @@
+#line 1 "S:\\STM32SSC\\Arduino\\Code\\0_Test\\0_Test\\.vscode\\arduino.json"
+{
+    "port": "COM14",
+    "board": "arduino:avr:uno",
+    "output": "./build",
+    "sketch": "0_Test.ino"
+}
